@@ -1,2 +1,2 @@
-# bme680-exporter
-Prometheus exporter for BME680 sensor on Raspberry Pi GPIO.
+# bme280-exporter
+Prometheus exporter for BME280 sensor on Raspberry Pi GPIO.
